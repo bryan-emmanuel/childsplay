@@ -4,9 +4,12 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
-<TextView  
-    android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
-    android:text="@string/hello"
-    />
+<Button android:id="@+id/do1" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+<Button android:id="@+id/re" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+<Button android:id="@+id/mi" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+<Button android:id="@+id/fa" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+<Button android:id="@+id/so" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+<Button android:id="@+id/la" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+<Button android:id="@+id/ti" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+<Button android:id="@+id/do2" android:layout_weight="1" android:layout_width="fill_parent" android:layout_height="fill_parent" />
 </LinearLayout>
